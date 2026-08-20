@@ -1,14 +1,8 @@
 <div align="center">
-  <!-- Banner Image (Added cache buster and fixed encoding) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I%27m%20Spectator-code&fontSize=50&desc=Junior%20Red%20%26%20Blue%20Team&descAlignY=70&descAlign=62&animation=twinkling&v=1" width="100%" />
+  <!-- Replaced with a reliable Matrix Hacker GIF -->
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hacker Banner" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" />
 
   <br />
-  
-  <!-- Typing Effect -->
-  <a href="https://github.com/Spectator-code">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Junior+Blue+Team;Junior+Red+Team;Cybersecurity+Enthusiast;Always+Learning" alt="Typing SVG" />
-  </a>
-
   <br />
   
   <!-- Hit Counter Badge -->
@@ -50,30 +44,19 @@ I'm a passionate **Junior Blue Team and Junior Red Team** member. I'm always wil
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <!-- GitHub Readme Stats (Added cache buster) -->
+  <!-- Changed theme to bypass GitHub's broken image cache -->
   <a href="https://github.com/Spectator-code">
-    <img src="https://github-readme-stats.vercel.app/api?username=Spectator-code&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Spectator-code&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   </a>
-  
-  <!-- Top Languages (Added cache buster) -->
   <a href="https://github.com/Spectator-code">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectator-code&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spectator-code&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
   <a href="https://github.com/Spectator-code">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spectator-code&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Spectator-code&theme=radical" alt="GitHub Streak" />
   </a>
-</div>
-
-<br />
-
-### 💬 Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote of the day" />
 </div>
