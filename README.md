@@ -61,27 +61,7 @@ I'm a passionate **Junior Blue Team** and **Junior Red Team** member. I'm always
 
 ---
 
-### My GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spectator-code&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spectator-code&theme=github_dark" alt="Top Repos by Language" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spectator-code&theme=github_dark" alt="Top Languages by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spectator-code&theme=github_dark&utcOffset=8" alt="Commits by Time" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spectator-code&theme=github_dark" alt="Contribution Graph" />
-</div>
-
-<br />
+### My GitHub Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Spectator-code&theme=github-dark-blue&border=30363d&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
