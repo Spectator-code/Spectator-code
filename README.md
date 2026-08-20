@@ -62,22 +62,28 @@ I'm a passionate **Junior Blue Team** and **Junior Red Team** member. I'm always
 
 ### My GitHub Stats
 
-<!-- Using fresh unique cache-busting timestamps so GitHub Camo fetches new images -->
-
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Spectator-code&show_icons=true&theme=github_dark&border_color=30363d&count_private=true&include_all_commits=true&cache_seconds=1800&t=20260820v3" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Spectator-code&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Spectator-code&theme=github_dark" alt="Top Repos by Language" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Spectator-code&layout=compact&theme=github_dark&border_color=30363d&cache_seconds=1800&t=20260820v3" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Spectator-code&theme=github_dark" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Spectator-code&theme=github_dark&utcOffset=8" alt="Commits by Time" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Spectator-code&theme=github-dark-blue&border=30363d&date_format=j%20M%5B%20Y%5D&cache_seconds=1800&t=20260820v3" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Spectator-code&theme=github_dark" alt="Contribution Graph" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Spectator-code&theme=github-dark-blue&border=30363d&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
