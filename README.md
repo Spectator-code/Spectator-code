@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=250&section=header&text=Spectator-code&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=Junior%20Red%20Team%20|%20Junior%20Blue%20Team&descAlignY=55&descSize=18&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=250&section=header&text=Hi,%20I%27m%20Ken&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=Junior%20Red%20Team%20|%20Junior%20Blue%20Team&descAlignY=55&descSize=18&descAlign=50" width="100%" />
 
   <br />
 
@@ -41,8 +41,9 @@ I'm a passionate **Junior Blue Team** and **Junior Red Team** member. I'm always
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript/TSX-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript/TSX" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </div>
 
