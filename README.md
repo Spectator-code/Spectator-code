@@ -1,8 +1,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=250&section=header&text=Hi,%20I%27m%20Ken&fontSize=60&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=Junior%20Red%20Team%20|%20Junior%20Blue%20Team&descAlignY=55&descSize=18&descAlign=50" width="100%" />
-
+ 
   <br />
 
   <!-- Profile Visits -->
