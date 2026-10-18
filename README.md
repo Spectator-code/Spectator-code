@@ -5,7 +5,7 @@
 Defensive security, penetration testing, and software development. Focused on analyzing vulnerabilities, traffic interception, and building secure full-stack web applications.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/bIEzoZX0q0Gs/giphy.gif" width="400" alt="Anime Hacker Typing" />
+  <img src="test_tenor.gif" width="400" alt="Anime Typing" />
 </div>
 
 ---
